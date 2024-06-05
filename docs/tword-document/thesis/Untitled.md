@@ -1,8 +1,0 @@
-- **Title of Speech:** 
-- **Topic of Speech:** 
-- **Persuasive Intent:** To make 
-- **Thesis Statement:** 
-- **Audience Analysis:** What is the demographic data and inferred general attitudes of your audience from this data? What are the psychological, cultural, social, and/or political circumstances surrounding your speech?
-- **Outline:** How do you intend to organize your speech? The outline should include major ideas, subordinate ideas, and supporting materials or evidence for your claims. Divide this section into sub-headings to represent your argumentation.
-- **References:** List all sources to be used in the persuasive speech. Follow the APA 7 citation guide.
-- **Notes:** Write down important notes regarding your topic, references, and research.
