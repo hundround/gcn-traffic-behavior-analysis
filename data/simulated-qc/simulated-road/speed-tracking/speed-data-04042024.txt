@@ -1,0 +1,43 @@
+waze and dpwh rtia report
+
+5.45km estimate node 1-10
+thursday april 04, 2024
+
+10:21am
+30kph
+10:22am
+30kph
+10:25am
+31kph
+10:27am
+29kph
+10:30am
+27kph
+
+node 9
+
+10:20am
+19kph
+10:22am
+17kph
+10:25am
+18kph
+10:27am
+18kph
+10:30am
+22kph
+
+node 3
+
+10:20am
+14kph
+10:22am
+15kph
+10:25am
+20kph
+10:27am
+13kph
+10:30am
+21kph
+
+node 4

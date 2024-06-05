@@ -1,0 +1,13 @@
+numpy
+matplotlib
+torch
+torchvision
+IPython
+pandas
+argparse
+openpyxl
+pyarrow
+seaborn
+ipykernel
+networkx
+plotly
