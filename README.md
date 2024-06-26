@@ -12,5 +12,5 @@ Some the sample codes implementing convolution with a kernel, specifically, Sobe
 
 ### Reference:
 
-[1] Luan, Sen, et al. "Traffic congestion propagation inference using dynamic Bayesian graph convolution network." _Transportation research part C: emerging technologies 135_ (2022): 103526.
+[1] Luan, Sen, et al. "Traffic congestion propagation inference using dynamic Bayesian graph convolution network." _Transportation research part C: emerging technologies 135_ (2022): 103526.  
 [2] Zhu, Lyuyi, et al. "Adversarial diffusion attacks on graph-based traffic prediction models." _IEEE Internet of Things Journal_ (2023).
