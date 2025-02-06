@@ -8,8 +8,6 @@ left cited from the [luansen/congestion_propagation_analysis](https://github.com
 
 Some the sample codes implementing convolution with a kernel, specifically, Sobel filter, can be found in [miguelmota/sobel](https://github.com/miguelmota/sobel). In [chokkan/deeplearning/blob/master/notebook/convolution](https://github.com/chokkan/deeplearning/blob/master/notebook/convolution.ipynb), distinct convolution feature map outputs are demonstrated by varying kernel matrices.
 
-(This repository is currently under editing by the author.)
-
 ### Reference:
 
 [1] Luan, Sen, et al. "Traffic congestion propagation inference using dynamic Bayesian graph convolution network." _Transportation research part C: emerging technologies 135_ (2022): 103526.  
